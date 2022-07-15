@@ -1,6 +1,4 @@
-Download Xampp - https://www.filehorse.com/download-xampp/63247/change-log/
 
-Search this in - Xampp->Php->php.ini file : gd, sqlite3
 
 Customer Login:- 
 
