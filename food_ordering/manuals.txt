@@ -1,0 +1,19 @@
+Download Xampp - https://www.filehorse.com/download-xampp/63247/change-log/
+
+Search this in - Xampp->Php->php.ini file : gd, sqlite3
+
+Customer Login:- 
+
+link: http://localhos:8080/food_ordering/
+Username and Password: Register for a new account to set username and password
+
+
+
+Admin Login:- 
+
+link: http://localhost:8080/food_ordering/admin
+Username: admin
+Password: admin123
+
+
+Download Product Pictures - https://unsplash.com/s/photos/dairy?orientation=squarish
